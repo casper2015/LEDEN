@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'LEDEN'
-copyright = '2023, Mihir Rao, Shahin Jabbari'
-author = 'Mihir Rao, Shahin Jabbari'
-release = '0.0.1'
+copyright = '2023, Mihir Rao'
+author = 'Mihir Rao'
+release = '0.0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
