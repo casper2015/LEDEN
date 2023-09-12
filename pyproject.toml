@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 
-name = "packages"
+name = "LEDEN"
 version = "0.0.1"
 authors = [
   { name = "Mihir Rao", email = "raomihir.98@gmail.com" },
@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/casper2015/raoexp"
+"Homepage" = "https://github.com/casper2015/LEDEN"
